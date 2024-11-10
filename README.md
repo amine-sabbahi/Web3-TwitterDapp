@@ -65,7 +65,7 @@ This project is a decentralized social media application inspired by Twitter, bu
 1. Clone the repository:
   ```bash
   git clone https://github.com/amine-sabbahi/Web3-TwitterDapp.git
-  cd web3-twitter-dapp/twitter-dapp
+  cd web3-twitter-dapp/Front-end
   ```
 2. Deploy the smart contract using Hardhat and remix:
   ```bash
