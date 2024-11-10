@@ -6,7 +6,7 @@ This project is a decentralized social media application inspired by Twitter, bu
 1. A **Solidity-based smart contract** that manages posts and user interactions.
 2. A **front-end interface** for seamless user interaction with the blockchain.
 
-[!interface](interface.png)
+[!interface](images/interface.png)
 
 ---
 
@@ -30,11 +30,11 @@ This project is a decentralized social media application inspired by Twitter, bu
 ### 2. Content Management
 - **Post Creation and Modification**: Users can publish posts directly to the blockchain and edit them if they are the author.
 - **Real-Time Updates**: Changes are instantly reflected on the DApp interface for all users.
-[!interface](posts-card.png)
+[!interface](images/posts-card.png)
 ### 3. Post Interactions
 - **Like/Dislike System**: Users can like or dislike posts, with the smart contract preventing duplicate actions.
 - **User-Specific Controls**: Only the author can edit their posts, and user-specific posts are highlighted.
-[!interface](actual-post.png)
+[!interface](images/actual-post.png)
 ### 4. Responsive UI
 - **Web3 Integration**: Seamless blockchain interaction with Web3.js.
 - **Visual Feedback and Error Handling**: Intuitive feedback for blockchain transactions, with error handling for failed connections or transactions.
